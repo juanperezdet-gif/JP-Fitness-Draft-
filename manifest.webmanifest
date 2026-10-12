@@ -1,0 +1,18 @@
+{
+  "name": "JP Fitness V6.1",
+  "short_name": "JP Fitness",
+  "description": "JP Fitness V6.1 personal.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#050608",
+  "theme_color": "#050608",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

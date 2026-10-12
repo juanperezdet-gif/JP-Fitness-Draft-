@@ -1,0 +1,9 @@
+{
+  "name": "jp-fitness",
+  "version": "6.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 5173",
+    "build": "node build.mjs"
+  }
+}
